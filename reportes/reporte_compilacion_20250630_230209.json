@@ -1,0 +1,83 @@
+{
+  "timestamp": "2025-06-30T23:02:09.290580",
+  "total_archivos": 10,
+  "exitosos": [],
+  "fallidos": [
+    {
+      "archivo": "buclesanidados.txt",
+      "tiempo_compilacion": 0.034,
+      "codigo_salida": 2,
+      "stdout": "",
+      "stderr": "C:\\Users\\Jerson\\AppData\\Local\\Programs\\Python\\Python313\\python.exe: can't open file 'C:\\\\Users\\\\Jerson\\\\Downloads\\\\20-06COMPILADORES-main\\\\20-06COMPILADORES-main\\\\compilador\\\\compilador.py': [Errno 2] No such file or directory\n"
+    },
+    {
+      "archivo": "fibonaccirecursivo.txt",
+      "tiempo_compilacion": 0.028,
+      "codigo_salida": 2,
+      "stdout": "",
+      "stderr": "C:\\Users\\Jerson\\AppData\\Local\\Programs\\Python\\Python313\\python.exe: can't open file 'C:\\\\Users\\\\Jerson\\\\Downloads\\\\20-06COMPILADORES-main\\\\20-06COMPILADORES-main\\\\compilador\\\\compilador.py': [Errno 2] No such file or directory\n"
+    },
+    {
+      "archivo": "holamundo.txt",
+      "tiempo_compilacion": 0.029,
+      "codigo_salida": 2,
+      "stdout": "",
+      "stderr": "C:\\Users\\Jerson\\AppData\\Local\\Programs\\Python\\Python313\\python.exe: can't open file 'C:\\\\Users\\\\Jerson\\\\Downloads\\\\20-06COMPILADORES-main\\\\20-06COMPILADORES-main\\\\compilador\\\\compilador.py': [Errno 2] No such file or directory\n"
+    },
+    {
+      "archivo": "prueba.txt",
+      "tiempo_compilacion": 0.03,
+      "codigo_salida": 2,
+      "stdout": "",
+      "stderr": "C:\\Users\\Jerson\\AppData\\Local\\Programs\\Python\\Python313\\python.exe: can't open file 'C:\\\\Users\\\\Jerson\\\\Downloads\\\\20-06COMPILADORES-main\\\\20-06COMPILADORES-main\\\\compilador\\\\compilador.py': [Errno 2] No such file or directory\n"
+    },
+    {
+      "archivo": "restanumeros.txt",
+      "tiempo_compilacion": 0.028,
+      "codigo_salida": 2,
+      "stdout": "",
+      "stderr": "C:\\Users\\Jerson\\AppData\\Local\\Programs\\Python\\Python313\\python.exe: can't open file 'C:\\\\Users\\\\Jerson\\\\Downloads\\\\20-06COMPILADORES-main\\\\20-06COMPILADORES-main\\\\compilador\\\\compilador.py': [Errno 2] No such file or directory\n"
+    },
+    {
+      "archivo": "sumanumeros.txt",
+      "tiempo_compilacion": 0.026,
+      "codigo_salida": 2,
+      "stdout": "",
+      "stderr": "C:\\Users\\Jerson\\AppData\\Local\\Programs\\Python\\Python313\\python.exe: can't open file 'C:\\\\Users\\\\Jerson\\\\Downloads\\\\20-06COMPILADORES-main\\\\20-06COMPILADORES-main\\\\compilador\\\\compilador.py': [Errno 2] No such file or directory\n"
+    },
+    {
+      "archivo": "test.txt",
+      "tiempo_compilacion": 0.024,
+      "codigo_salida": 2,
+      "stdout": "",
+      "stderr": "C:\\Users\\Jerson\\AppData\\Local\\Programs\\Python\\Python313\\python.exe: can't open file 'C:\\\\Users\\\\Jerson\\\\Downloads\\\\20-06COMPILADORES-main\\\\20-06COMPILADORES-main\\\\compilador\\\\compilador.py': [Errno 2] No such file or directory\n"
+    },
+    {
+      "archivo": "tipos-error.txt",
+      "tiempo_compilacion": 0.027,
+      "codigo_salida": 2,
+      "stdout": "",
+      "stderr": "C:\\Users\\Jerson\\AppData\\Local\\Programs\\Python\\Python313\\python.exe: can't open file 'C:\\\\Users\\\\Jerson\\\\Downloads\\\\20-06COMPILADORES-main\\\\20-06COMPILADORES-main\\\\compilador\\\\compilador.py': [Errno 2] No such file or directory\n"
+    },
+    {
+      "archivo": "tipos-validos.txt",
+      "tiempo_compilacion": 0.025,
+      "codigo_salida": 2,
+      "stdout": "",
+      "stderr": "C:\\Users\\Jerson\\AppData\\Local\\Programs\\Python\\Python313\\python.exe: can't open file 'C:\\\\Users\\\\Jerson\\\\Downloads\\\\20-06COMPILADORES-main\\\\20-06COMPILADORES-main\\\\compilador\\\\compilador.py': [Errno 2] No such file or directory\n"
+    },
+    {
+      "archivo": "verificarvariable.txt",
+      "tiempo_compilacion": 0.025,
+      "codigo_salida": 2,
+      "stdout": "",
+      "stderr": "C:\\Users\\Jerson\\AppData\\Local\\Programs\\Python\\Python313\\python.exe: can't open file 'C:\\\\Users\\\\Jerson\\\\Downloads\\\\20-06COMPILADORES-main\\\\20-06COMPILADORES-main\\\\compilador\\\\compilador.py': [Errno 2] No such file or directory\n"
+    }
+  ],
+  "errores": [],
+  "estadisticas": {
+    "tasa_exito": 0.0,
+    "tiempo_total": 0.276,
+    "tiempo_promedio": 0.027600000000000003
+  }
+}

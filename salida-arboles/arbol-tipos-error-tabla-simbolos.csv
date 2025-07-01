@@ -1,0 +1,5 @@
+Símbolo,Categoría,Tipo,Ámbito,Parámetros,Retorno
+main,función,-,Global,-,tentero
+x,variable,tentero,main,-,-
+y,variable,tcadena,main,-,-
+z,variable,tcadena,main,-,-

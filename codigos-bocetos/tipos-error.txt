@@ -1,0 +1,6 @@
+fn main() int {
+    x int = "texto";
+    y text = "hola";
+    z text = y + 5;
+    return 0;
+}
